@@ -1,0 +1,16 @@
+# Ignore node_modules
+node_modules/
+
+# Ignore SSL/TLS certificates
+nginx_certificates/
+
+# Ignore environment files
+.env
+
+# Ignore build artifacts
+dist/
+build/
+out/
+
+# Ignore package-lock.json (optional)
+package-lock.json

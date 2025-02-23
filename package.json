@@ -1,0 +1,15 @@
+{
+    "name": "nginx",
+    "version": "1.0.0",
+    "description": "A Node.js application serving a static HTML file",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "author": "Saaida",
+    "license": "MIT",
+    "dependencies": {
+      "express": "^4.17.1",
+      "path": "^0.12.7"
+    } 
+  }
